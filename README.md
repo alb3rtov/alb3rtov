@@ -4,6 +4,7 @@
 - 💬 Ask me about in albertovmrm@gmail.com
 - 📫 How to reach me: You can visit my [blog](https://informaticaenuno.wordpress.com/)
 
+I worked as a system administrator in user help center of a spanish company where I managed Active Directory, SQL Databases, configure devices to workers, fix technical issues. I also have experience with Unix systems configuring servers of DNS, DHCP, web, FTP, STMP and managing, designing and simulating networks of computers. You can see further information in [my personal blog](https://informaticaenuno.wordpress.com/)
 
 ### Languages and Tools
 
@@ -12,6 +13,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alb3rtov&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
+### Github Info
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alb3rtov&show_icons=true&locale=en&theme=cobalt" alt="alb3rtov" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alb3rtov&theme=cobalt" alt="alb3rtov" /></p>
 
