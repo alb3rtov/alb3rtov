@@ -4,7 +4,7 @@
 - 💬 Ask me about in albertovmrm@gmail.com
 - 📫 How to reach me: You can visit my [blog](https://informaticaenuno.wordpress.com/)
 
-I worked as a system administrator in user help center of a spanish company where I managed Active Directory, SQL Databases, configure devices to workers and fix technical software and hardware issues. I also have experience with Unix systems configuring servers of DNS, DHCP, web, FTP, STMP and managing, designing and simulating networks of computers. You can see further information in [my personal blog](https://informaticaenuno.wordpress.com/)
+I worked as a system administrator in user help center of a spanish company where I managed Active Directory, SQL Databases, configure devices to workers and fix technical software and hardware issues. I also have experience with Unix systems configuring servers of DNS, DHCP, web, FTP, SMTP and managing, designing and simulating networks of computers. You can see further information in [my personal blog](https://informaticaenuno.wordpress.com/)
 
 ### Languages and Tools
 
