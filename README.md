@@ -1,6 +1,6 @@
 ### Hi there, I'm Alberto 👋
 <!-- ![](https://komarev.com/ghpvc/?username=alb3rtov&color=blue&style=flat-square) -->
-- 🔭 I’m currently studying my third year of Computer Engineering
+- 🔭 I’m currently studying the last year of Computer Engineering Degree
 - 💬 Ask me about in albertovmrm@gmail.com
 - 📫 How to reach me: You can visit my [blog](https://informaticaenuno.wordpress.com/)
 
