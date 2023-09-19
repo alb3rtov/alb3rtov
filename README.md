@@ -52,3 +52,7 @@
 [![](https://github-readme-streak-stats.herokuapp.com/?user=alb3rtov&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 </div>
+
+<div align="right">
+    <img src="https://media.tenor.com/PS6medrGxqwAAAAd/cat-kiss.gif" width="10" height="10" />
+</div>
