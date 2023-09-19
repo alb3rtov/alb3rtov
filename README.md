@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=CCF713&lines=Hi+There!+👋;+I'm+Alberto!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=A2B7F7FF&lines=Hi+There!+👋;+I'm+Alberto!;" />
 </h1>
 
 <h3 align="center">I'm a computer engineer from SPAIN 🇪🇸 </h3>
@@ -18,7 +18,7 @@
  
 <div align="center"> 
   <a href="mailto:albertovmrm@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/alberto-vazquez-martinez" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
