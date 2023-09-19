@@ -8,7 +8,7 @@
   
  🔭 I’m currently studying the last year of Computer Engineering Degree
   
- 🌱 I’m currently working on Bachelor's Final Project
+ 🌱 I’m currently working on Bachelor's Final Project (using React Native, Node.js and Express)
  
  💬 Ask me about in albertovmrm@gmail.com
  
@@ -29,9 +29,9 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,c,cpp,cs,powershell,bash" /><br>
-    <img src="https://skillicons.dev/icons?i=react,express,nodejs,mysql" />
-    <img src="https://skillicons.dev/icons?i=vscode,vim,eclipse,ps" />
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,powershell,bash,javascript,html,css,md,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=react,express,nodejs,mysql,postman" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,neovim,eclipse,ps" />
     <img src="https://skillicons.dev/icons?i=git,github" /><br>
 </div>
 
