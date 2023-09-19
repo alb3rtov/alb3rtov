@@ -37,6 +37,9 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align=center>
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=alb3rtov&layout=compact&theme=nord&exclude_repo=alb3rtov.github.io,ISO2-2021-Testing-P3,alb3rtov,ARCO,DSBM,uart-communication-stm32-esp32#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=alb3rtov&layout=compact&theme=default&exclude_repo=alb3rtov.github.io,ISO2-2021-Testing-P3,alb3rtov,ARCO,DSBM,uart-communication-stm32-esp32#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
     
 [![](https://github-readme-stats.vercel.app/api?username=alb3rtov&show_icons=true&locale=en&theme=nord#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![](https://github-readme-stats.vercel.app/api?username=alb3rtov&show_icons=true&locale=en&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
@@ -44,7 +47,4 @@
 [![](https://github-readme-streak-stats.herokuapp.com/?user=alb3rtov&theme=nord#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=alb3rtov&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=alb3rtov&layout=compact&theme=nord&exclude_repo=alb3rtov.github.io,ISO2-2021-Testing-P3,alb3rtov,ARCO,DSBM,uart-communication-stm32-esp32#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=alb3rtov&layout=compact&theme=default&exclude_repo=alb3rtov.github.io,ISO2-2021-Testing-P3,alb3rtov,ARCO,DSBM,uart-communication-stm32-esp32#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-  
 </div>
