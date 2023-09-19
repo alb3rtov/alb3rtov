@@ -10,9 +10,9 @@
   
  🌱 I’m currently working on my Bachelor's Final Project (using React Native, Node.js and Express)
  
- 💬 Ask me about in albertovmrm@gmail.com
- 
  📫 You can visit my [blog](https://informaticaenuno.wordpress.com/) about networks and computer systems
+
+ 💬 You can reach me in:
  
 </div>
  
