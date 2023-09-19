@@ -8,11 +8,11 @@
   
  🔭 I’m currently studying the last year of Computer Engineering Degree
   
- 🌱 I’m currently working on Bachelor's Final Project (using React Native, Node.js and Express)
+ 🌱 I’m currently working on my Bachelor's Final Project (using React Native, Node.js and Express)
  
  💬 Ask me about in albertovmrm@gmail.com
  
- 📫 How to reach me: You can visit my [blog](https://informaticaenuno.wordpress.com/)
+ 📫 You can visit my [blog](https://informaticaenuno.wordpress.com/)
  
 </div>
  
@@ -26,6 +26,10 @@
 </div>
 
 <h2 align="center">⚒️ Languages, Frameworks and Tools ⚒️</h2>
+
+<div align="center">
+    These are some of the tools, languages and other things I have worked with:
+</div>
 <br/>
 
 <div align="center">
