@@ -12,7 +12,7 @@
  
  💬 Ask me about in albertovmrm@gmail.com
  
- 📫 You can visit my [blog](https://informaticaenuno.wordpress.com/)
+ 📫 You can visit my [blog](https://informaticaenuno.wordpress.com/) about networks and computer systems
  
 </div>
  
