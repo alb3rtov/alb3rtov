@@ -38,8 +38,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align=center>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alb3rtov&show_icons=true&locale=en&theme=nord" alt="alb3rtov" />
+    <br><br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alb3rtov&theme=nord" alt="alb3rtov" />
-  <br/>
+  <br><br>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alb3rtov&layout=compact&theme=nord&exclude_repo=alb3rtov.github.io,ISO2-2021-Testing-P3,alb3rtov,ARCO,DSBM,uart-communication-stm32-esp32" alt="top langs" />
 
 </div>
