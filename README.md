@@ -35,7 +35,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,powershell,bash,javascript,html,css,md,linux" /><br>
     <img src="https://skillicons.dev/icons?i=react,express,nodejs,mysql,postman" />
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,neovim,eclipse,ps" />
+    <img src="https://skillicons.dev/icons?i=docker,vscode,visualstudio,neovim,eclipse,ps" />
     <img src="https://skillicons.dev/icons?i=git,github" /><br>
 </div>
 
