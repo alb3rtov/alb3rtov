@@ -33,10 +33,9 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,powershell,bash,javascript,html,css,md,linux" /><br>
-    <img src="https://skillicons.dev/icons?i=react,express,nodejs,mysql,postman" />
-    <img src="https://skillicons.dev/icons?i=docker,vscode,visualstudio,neovim,eclipse,ps" />
-    <img src="https://skillicons.dev/icons?i=git,github" /><br>
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,ruby,powershell,bash,javascript"/><br>
+    <img src="https://skillicons.dev/icons?i=html,css,md,linux,rails,react,express,nodejs,mysql"/><br>
+    <img src="https://skillicons.dev/icons?i=postman,docker,vscode,visualstudio,neovim,eclipse,ps,git,github"/>
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
