@@ -9,6 +9,8 @@
  🔭 I’m currently studying the last year of Computer Engineering Degree
   
  🌱 I’m currently working on my Bachelor's Final Project (using React Native, Node.js and Express)
+
+ ⚙️ I am also currently working as a web developer (using Ruby On Rails and PostgreSQL).
  
  📫 You can visit my [blog](https://informaticaenuno.wordpress.com/) about networks and computer systems
 
