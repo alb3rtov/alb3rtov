@@ -2,9 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=A2B7F7FF&lines=Hi+There!+👋;+I'm+Alberto!;" />
 </h1>
 
-<h3 align="center">I'm a computer engineer from SPAIN 🇪🇸 </h3>
-
 <div align="center">
+
+ 📚 I have just finished my degree in computer engineering.
     
  ⚙️ I currently working as a web developer (using Ruby On Rails and PostgreSQL)
 
