@@ -5,8 +5,9 @@
 <h3 align="center">I'm a computer engineer from SPAIN 🇪🇸 </h3>
 
 <div align="center">
- ⚙️ I currently working as a web developer (using Ruby On Rails and PostgreSQL).
- 
+    
+ ⚙️ I currently working as a web developer (using Ruby On Rails and PostgreSQL)
+
  📫 You can visit my [blog](https://informaticaenuno.wordpress.com/) about networks and computer systems
 
  💬 You can reach me in:
